@@ -1,0 +1,63 @@
+## Programming fundamental concepts
+
+- Language
+  - Object 👂 heard
+  - this
+  - typeof 🎓 known
+  - getters and setters
+  - public, private, protected
+  - equality operators
+  - logical operators
+  - bitwise operators
+  - ternary operator
+  - void 🖐️ used
+  - in 
+  - ref
+  - out
+  - base
+  - partial
+  - interface
+  - delegate
+  - null-coalescing operator
+  - abstract
+  - override
+  - virtual
+  - overloaded methods
+  - Parse and TryParse
+- Statements
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
+  - foreach
+  - throw
+  - break 🖐️ used
+  - continue 🖐️ used
+  - import
+  - export
+  - try..catch
+  - switch 🖐️ used
+  - class 👂 heard
+  - with
+  - where
+- Functions
+  - function declaration 🖐️ used
+  - function expression 🖐️ used
+  - return 🖐️ used
+  - params
+  - default parameters
+  - functional object
+- Data structures
+  - Array 👂 heard
+  - null 🖐️ used
+  - List
+  - ArrayList
+  - decimal
+  - struct
+  - Queue
+  - Stack
+  - HashSet
+- Infrastructure
+  - linq
+  - asp
+  - ado.net
