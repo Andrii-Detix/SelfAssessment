@@ -4,48 +4,48 @@
   - value 🖐️ used
   - identifier 🖐️ used
   - variable 🖐️ used
-  - constant 👂 heard
-  - scalar
+  - constant 🖐️ used
+  - scalar 👂 heard
   - literal 🖐️ used
   - expression 🖐️ used
-  - heap
+  - heap 🎓 known
   - function 🖐️ used
-  - procedure 
-  - method 👂 heard
-  - class 👂 heard
-  - prototype
-  - event
+  - procedure 👂 heard
+  - method 🖐️ used
+  - class 🖐️ used
+  - prototype 👂 heard
+  - event 👂 heard
   - type 🖐️ used
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
+  - primitive types 🖐️ used
+  - reference types 🖐️ used
+  - flag 🖐️ used
+  - lexical scope 🖐️ used
   - code block 🖐️ used
   - conditions 🖐️ used
   - loops 🖐️ used
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - assignment 🖐️ used
+  - regular expression 👂 heard
+  - interface 🎓 known
+  - contract 👂 heard
+  - module 🖐️ used
+  - call stack 👂 heard
 - Functions
   - signature 🖐️ used
   - argument 🖐️ used
   - parameter 🖐️ used
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
+  - pure function 🖐️ used
+  - lambda expression 🖐️ used
+  - side effects 🎓 known
+  - closure 👂 heard
   - partial application
   - curry
-  - higher order
-  - recursion
-  - callback
+  - higher order 🎓 known
+  - recursion 🖐️ used
+  - callback 🖐️ used
   - listener
   - compose
   - pipe
-  - memoize
+  - memoize 👂 heard
   - wrapper
   - functor
   - monad
@@ -53,54 +53,54 @@
   - generator
   - coroutine
 - Data structures
-  - array 👂 heard
-  - structure 
-  - record
-  - enum
-  - instance
-  - object 👂 heard
-  - class 👂 heard
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
+  - array 🖐️ used
+  - structure 🖐️ used
+  - record 👂 heard
+  - enum 🖐️ used
+  - instance 🖐️ used
+  - object 🖐️ used
+  - class 🖐️ used
+  - collection 🎓 known
+  - set 🎓 known
+  - hash table 🎓 known
+  - linked list 🎓 known
+  - doubly list 🎓 known
   - unrolled list
   - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
+  - queue 🎓 known
+  - stack 🎓 known
+  - deque 👂 heard
+  - tree 🎓 known
+  - graph 👂 heard
+  - iterator 👂 heard
+  - mutable state 🖐️ used
+  - immutable state 🖐️ used
+  - serialization 👂 heard
   - string parsing
 - Process & style
   - compiler 🖐️ used
-  - transpiler
-  - linter
+  - transpiler 👂 heard
+  - linter 👂 heard
   - polyfill
-  - debugger 👂 heard
-  - garbage collection
-  - refactoring 👂 heard
-  - code review 👂 heard
-  - antipatterns
-  - paradigm
+  - debugger 🖐️ used
+  - garbage collection 🎓 known
+  - refactoring 🖐️ used
+  - code review 🎓 known
+  - antipatterns 🖐️ used
+  - paradigm 👂 heard
   - algorithm 🖐️ used
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - magic numbers 🖐️ used
+  - hardcode 🎓 known
+  - complexity 🎓 known
+  - decomposition 🖐️ used
+  - spaghetti 🎓 known
+  - silver bullet 🎓 known
+  - not invented here 🎓 known
+  - dead code 🎓 known
+  - unreachable code 🎓 known
+  - duplicate code 🎓 known
+  - exception 🎓 known
+  - return early 🖐️ used
+  - unittest 🎓 known
+  - git 🖐️ used
+  - github 🖐️ used
