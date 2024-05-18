@@ -1,89 +1,122 @@
-## Programming fundamental concepts
+## JavaScript
 
 - Language
-  - Object 🖐️ used
-  - this 🖐️ used
-  - arrow function 🖐️ used
-  - async function 🖐️ used
-  - call 
-  - bind 
-  - apply 
-  - instanceof 🎓 known
-  - ...spread 🖐️ used
-  - ...rest 🖐️ used
-  - typeof 🖐️ used
-  - destructuring 🎓 known
-  - generator 👂 heard
-  - iterator 👂 heard
-  - async generator
-  - async iterator
-  - chaining 👂 heard
-  - optional chaining
+  - `Object` 🖐️ used
+  - `Function` 🖐️ used
+  - `Boolean` 🖐️ used
+  - `Number` 🖐️ used
+  - `BigInt` 🖐️ used
+  - `String` 🖐️ used
+  - `Symbol` 🖐️ used
+  - `Infinity` 🖐️ used
+  - `NaN` 🖐️ used
+  - `undefined` 🖐️ used
+  - `null` 🖐️ used
+  - `this` 🖐️ used
+  - `instanceof` 🎓 known
+  - `...spread` 🖐️ used
+  - `...rest` 🖐️ used
+  - `typeof` 🖐️ used
+  - Destructuring 🎓 known
+  - Generators 👂 heard
+  - Iterators 👂 heard
+  - Async generator
+  - Async iterator
+  - Chaining 👂 heard
+  - Optional chaining
   - IIFE
-  - global 🖐️ used
-  - globalThis 🖐️ used
-  - window
-  - getters and setters 
-  - __proto__
-  - prototype
-  - equality operators 🖐️ used
-  - logical operators 🖐️ used
-  - bitwise operators
-  - ternary operator 🖐️ used
-  - void 🎓 known
-  - yield
-  - await 🖐️ used
-  - template literal 🖐️ used
-  - strict mode
-  - delete 🖐️ used
-  - in 🎓 known
-  - super 👂 heard
-  - Symbol 👂 heard
-  - Reflect
+  - Async IIFE
+  - `global` 
+  - `globalThis` 
+  - `window`
+  - Getters and setters
+  - `__proto__`
+  - `prototype`
+  - Equality operators 🖐️ used
+  - Logical operators 🖐️ used
+  - Logical Assignment
+  - Bitwise operators 🖐️ used
+  - Ternary operator 🖐️ used
+  - `void` 🎓 known
+  - `yield`
+  - `await` 👂 heard
+  - Template literal 🖐️ used
+  - Strict mode
+  - Hoisting
+  - `delete` 
+  - `in`
+  - `super`
+  - `eval`
+  - `static`
+  - `Number.parseInt`
+  - `Number.parseFloat`
+  - Property descriptors
+  - Sealing properties
+  - Freezing properties
+  - Computed properties
+  - Instance class fields
+  - Static class fields
+  - Private class fields
+  - Private class methods
 - Statements
-  - if 🖐️ used
-  - while 🖐️ used
-  - do..while 🖐️ used
-  - for 🖐️ used
-  - for..in 🖐️ used
-  - for..of 🖐️ used
-  - for await
-  - throw 🖐️ used
-  - break 🖐️ used
-  - continue 🖐️ used
-  - import 👂 heard
-  - export 👂 heard
-  - label 👂 heard
-  - try..catch 🖐️ used
-  - switch 🖐️ used
-  - class 🖐️ used
-  - new Error 🖐️ used
-  - with 👂 heard
+  - `if` 🖐️ used
+  - `while` 🖐️ used
+  - `do..while` 🖐️ used
+  - `for` 🖐️ used
+  - `for..in` 🖐️ used
+  - `for..of` 🖐️ used
+  - `for await`
+  - `throw` 🖐️ used
+  - `break` 🖐️ used
+  - `continue` 🖐️ used
+  - `import` 👂 heard
+  - `export` 👂 heard
+  - `label` 👂 heard
+  - `try..catch` 🖐️ used
+  - `switch` 🖐️ used
+  - `class` 🖐️ used
+  - `extends` 🖐️ used
+  - `with` 👂 heard
+  - `new`
 - Functions
-  - function declaration 🖐️ used
-  - function expression 🖐️ used
-  - return 🖐️ used
-  - default parameters 🖐️ used
-  - functional object 🖐️ used
+  - Arrow function  🖐️ used
+  - Async function
+  - Function declaration 🖐️ used
+  - Function expression 🖐️ used
+  - Default parameters 🖐️ used
+  - Functional object 🖐️ used
+  - `Function.prototype.call`
+  - `Function.prototype.bind`
+  - `Function.prototype.apply`
+  - `return` 🖐️ used
 - Data structures
-  - Array 🖐️ used
-  - mixin 🎓 known
-  - extend 🖐️ used
-  - typed arrays
-  - Map 🖐️ used
-  - Set 🖐️ used
-  - undefined 🖐️ used
-  - null 🖐️ used
-  - Proxy
-  - weak collections
-  - timers 🖐️ used
-  - EventEmitter 
-  - RegExp
-  - Date 👂 heard
-  - BigInt 🎓 known
+  - `Array` 🖐️ used
+  - `Map` 🖐️ used
+  - `Set` 🖐️ used
+  - `WeakMap`
+  - `WeakSet`
+  - Typed arrays
+  - Mixins 🎓 known
+  - `Object.assign`
+- Standard classes and namespaces
+  - `Proxy`
+  - `RegExp`
+  - `Date`
+  - `Math`
+  - `Reflect`
+  - `Error`
+  - `Atomics`
+  - `JSON`
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
+  - `Promise`
+  - `console` 🖐️ used
+  - Timers
 - Infrastructure
   - V8
   - Node.js 👂 heard
   - npm 👂 heard
   - prettier
   - MDN
+  - TC39
