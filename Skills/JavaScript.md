@@ -17,7 +17,7 @@
   - `...spread` 🖐️ used
   - `...rest` 🖐️ used
   - `typeof` 🖐️ used
-  - Destructuring 🎓 known
+  - Destructuring 🖐️ used
   - Generators 👂 heard
   - Iterators 👂 heard
   - Async generator
@@ -34,7 +34,7 @@
   - `prototype`
   - Equality operators 🖐️ used
   - Logical operators 🖐️ used
-  - Logical Assignment
+  - Logical Assignment 🎓 known
   - Bitwise operators 🖐️ used
   - Ternary operator 🖐️ used
   - `void` 🎓 known
@@ -43,21 +43,21 @@
   - Template literal 🖐️ used
   - Strict mode
   - Hoisting
-  - `delete` 
-  - `in`
-  - `super`
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `delete` 🎓 known
+  - `in` 🖐️ used
+  - `super` 👂 heard
+  - `eval` 🎓 known
+  - `static` 🖐️ used
+  - `Number.parseInt` 🖐️ used
+  - `Number.parseFloat` 🎓 known
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Static class fields 🖐️ used
+  - Private class fields 🖐️ used
+  - Private class methods 🖐️ used
 - Statements
   - `if` 🖐️ used
   - `while` 🖐️ used
@@ -77,10 +77,10 @@
   - `class` 🖐️ used
   - `extends` 🖐️ used
   - `with` 👂 heard
-  - `new`
+  - `new` 👂 heard
 - Functions
   - Arrow function  🖐️ used
-  - Async function
+  - Async function 👂 heard
   - Function declaration 🖐️ used
   - Function expression 🖐️ used
   - Default parameters 🖐️ used
@@ -102,21 +102,21 @@
   - `Proxy`
   - `RegExp`
   - `Date`
-  - `Math`
+  - `Math` 🖐️ used
   - `Reflect`
-  - `Error`
+  - `Error` 🖐️ used
   - `Atomics`
-  - `JSON`
+  - `JSON` 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise` 👂 heard
   - `console` 🖐️ used
   - Timers
 - Infrastructure
   - V8
   - Node.js 👂 heard
   - npm 👂 heard
-  - prettier
+  - prettier 🖐️ used
   - MDN
   - TC39
