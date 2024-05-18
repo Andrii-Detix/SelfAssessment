@@ -6,18 +6,23 @@
   - typeof 🖐️ used
   - getters and setters 🖐️ used
   - public, private, protected 🖐️ used
+  - static 🖐️ used
   - equality operators 🖐️ used
   - logical operators 🖐️ used
   - bitwise operators 👂 heard
   - ternary operator 🖐️ used
+  - as 🖐️ used
+  - is 🖐️ used
   - void 🖐️ used
   - in 🖐️ used
   - ref 🖐️ used
   - out 🖐️ used
   - base 🖐️ used
   - partial 🎓 known
-  - interface 🎓 known
+  - interface 🖐️ used
+  - generics 🖐️ used
   - delegate 🖐️ used
+  - event 👂 heard
   - null-coalescing operator 🖐️ used
   - abstract 🖐️ used
   - override 🖐️ used
@@ -33,13 +38,17 @@
   - throw 🖐️ used
   - break 🖐️ used
   - continue 🖐️ used
-  - import
-  - export
+  - import 👂 heard
+  - export 👂 heard
   - try..catch 🖐️ used
   - switch 🖐️ used
-  - class 👂 heard
+  - class 🖐️ used
   - with 🎓 known
-  - where 👂 heard
+  - where 🖐️ used
+  - sealed 🎓 known
+  - yield 👂 heard
+  - const 🖐️ used
+  - readonly 🖐️ used
 - Functions
   - function declaration 🖐️ used
   - function expression 🖐️ used
@@ -48,16 +57,22 @@
   - default parameters 🖐️ used
   - functional object 
 - Data structures
-  - Array 👂 heard
+  - Array 🖐️ used
   - null 🖐️ used
-  - List 🎓 known
-  - ArrayList 🎓 known
+  - Collections 🖐️ used
+  - List 🖐️ used
+  - ArrayList 🖐️ used
+  - LinkedList 🖐️ used
+  - bool 🖐️ used
+  - char 🖐️ used
+  - string 🖐️ used
+  - double 🖐️ used
   - decimal 🖐️ used
   - struct 🖐️ used
-  - Queue 🎓 known
-  - Stack 🎓 known
-  - HashSet 🎓 known
+  - Queue 🖐️ used
+  - Stack 🖐️ used
+  - Dictionary 🖐️ used
 - Infrastructure
-  - linq 👂 heard
-  - asp 👂 heard
-  - ado.net
+  - LINQ 👂 heard
+  - ASP.Net 👂 heard
+  - ADO.Net
