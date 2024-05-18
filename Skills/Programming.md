@@ -1,42 +1,42 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model 🖐️ used
+  - Modeling 🖐️ used
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm 🖐️ used
+  - Syntax 🖐️ used
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Abstraction 🖐️ used
+  - Paradigm 🖐️ used
+  - Programm 🖐️ used
+  - Programming paradigm 🖐️ used
+  - Programming language 🖐️ used
+  - Contract 👂 heard
+  - Module 🖐️ used
+  - Library 🖐️ used
+  - Package 👂 heard
+  - Component 
+  - Framework 🎓 known
+  - Platform 🖐️ used
+  - Source code 🖐️ used
+  - Object code 🖐️ used
+  - Machine code 🖐️ used
+  - Microcode 👂 heard
+  - Software engineering 🖐️ used
+  - Decomposition 🖐️ used
+  - Control flow 🎓 known
+  - Data flow 🎓 known
+  - Code reuse 🎓 known
+  - Defensive programming 🖐️ used
+  - Don't repeat yourself (DRY) 🖐️ used
+  - KISS principle 🖐️ used
 - Syntax and concepts
   - Value 🖐️ used
   - Identifier 🖐️ used
   - Variable 🖐️ used
   - Constant 🖐️ used
-  - Scalar 👂 heard
+  - Scalar 🖐️ used
   - Literal 🖐️ used
   - Expression 🖐️ used
   - Heap 🎓 known
@@ -54,32 +54,32 @@
   - Loops 🖐️ used
   - Assignment 🖐️ used
   - Regular expression 👂 heard
-  - Interface 🎓 known
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
+  - Interface 🖐️ used
+  - Namespaces 🖐️ used
+  - Call stack 🎓 known
+  - Naming conventions 🖐️ used
+  - Coding conventions 🖐️ used
+  - Camel case 🖐️ used
+  - Snake case 🎓 known
+  - Kebab case 🎓 known
+  - Trailing commas 
   - Return early 🖐️ used
-  - Fail-fast
+  - Fail-fast 👂 heard
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
-  - Nominal typing
-  - Structural typing
-  - Explicit typing
+  - Primitive types 🖐️ used
+  - Reference types 🖐️ used
+  - Type systems 🖐️ used
+  - Strong typing 🖐️ used
+  - Weak typing 🎓 known
+  - Duck typing 🎓 known
+  - Static typing 🖐️ used
+  - Dynamic typing 🖐️ used
+  - Nominal typing 🖐️ used
+  - Structural typing 🎓 known
+  - Explicit typing 🖐️ used
   - Type inference
-  - Covariance
-  - Contravariance
+  - Covariance 🖐️ used
+  - Contravariance 🎓 known
 - Functions
   - Signature 🖐️ used
   - Argument 🖐️ used
@@ -88,20 +88,20 @@
   - Lambda expression 🖐️ used
   - Side effects 🎓 known
   - Closure 👂 heard
-  - Partial application
-  - Currying
+  - Partial application 👂 heard
+  - Currying 👂 heard
   - Higher order 🎓 known
   - Recursion 🖐️ used
   - Tail call optimisation
   - Callback 🖐️ used
-  - Listener
-  - Composition
+  - Listener 👂 heard
+  - Composition 🖐️ used
   - Pipe
-  - Memoize
-  - Wrapper
-  - Functor
+  - Memoize 🖐️ used
+  - Wrapper 🖐️ used
+  - Functor 
   - Monad
-  - Monoid
+  - Monoid 👂 heard
   - Generator
   - Coroutine
 - Data structures
@@ -111,34 +111,34 @@
   - Enum 🖐️ used
   - Instance 🖐️ used
   - Object 🖐️ used
-  - Collection 🎓 known
+  - Collection 🖐️ used
   - Set 🎓 known
-  - Hash table 🎓 known
-  - Linked list 🎓 known
-  - Doubly list 🎓 known
-  - Unrolled list
-  - Circular list
-  - Queue 🎓 known
-  - Stack 🎓 known
-  - Deque 👂 heard
+  - Hash table 🖐️ used
+  - Linked list 🖐️ used
+  - Doubly list 🖐️ used
+  - Unrolled list 🎓 known
+  - Circular list 🎓 known
+  - Queue 🖐️ used
+  - Stack 🖐️ used
+  - Deque 🎓 known
   - Tree 🎓 known
-  - Graph 👂 heard
+  - Graph 🖐️ used
   - Iterator 👂 heard
   - Mutable state 🖐️ used
   - Immutable state 🖐️ used
   - Serialization 👂 heard
-  - String parsing
-  - JSON
+  - String parsing 👂 heard
+  - JSON 👂 heard
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS 🎓 known
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4 🎓 known
+  - IPv6 🎓 known
+  - NAT 🎓 known
+  - URL 🎓 known
   - URN
   - URI
 - Process and tools
@@ -146,14 +146,14 @@
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler 👂 heard
-  - Linter 👂 heard
+  - Linter 🖐️ used
   - Polyfill
-  - Interpreter
-  - Linker
+  - Interpreter 👂 heard
+  - Linker 
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime 👂 heard
+  - Virtual machine 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -162,7 +162,7 @@
   - Garbage collection 🎓 known
   - Refactoring 🖐️ used
   - Code review 🎓 known
-  - Exception 🎓 known
+  - Exception 🖐️ used
   - Unittesting
   - git 🖐️ used
   - Github 🖐️ used
@@ -173,7 +173,7 @@
 - Antipatterns
   - Magic numbers 🖐️ used
   - Hard code 🎓 known
-  - Soft code
+  - Soft code 🎓 known
   - Cryptic code
   - Improbability factor
   - Accidental complexity
@@ -193,8 +193,8 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
-  - Temporary field
+  - Use switch/case 🖐️ used
+  - Temporary field 👂 heard
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
@@ -218,11 +218,11 @@
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII 🖐️ used
   - Escape sequence
   - RFC
   - IETF
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 🖐️ used
   - W3C
   - ODMG
