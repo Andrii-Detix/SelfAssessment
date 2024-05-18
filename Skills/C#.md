@@ -1,63 +1,63 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 👂 heard
-  - this
-  - typeof 🎓 known
-  - getters and setters
-  - public, private, protected
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
+  - Object 🖐️ used
+  - this 🖐️ used
+  - typeof 🖐️ used
+  - getters and setters 🖐️ used
+  - public, private, protected 🖐️ used
+  - equality operators 🖐️ used
+  - logical operators 🖐️ used
+  - bitwise operators 👂 heard
+  - ternary operator 🖐️ used
   - void 🖐️ used
-  - in 
-  - ref
-  - out
-  - base
-  - partial
-  - interface
-  - delegate
-  - null-coalescing operator
-  - abstract
-  - override
-  - virtual
-  - overloaded methods
-  - Parse and TryParse
+  - in 🖐️ used
+  - ref 🖐️ used
+  - out 🖐️ used
+  - base 🖐️ used
+  - partial 🎓 known
+  - interface 🎓 known
+  - delegate 🖐️ used
+  - null-coalescing operator 🖐️ used
+  - abstract 🖐️ used
+  - override 🖐️ used
+  - virtual 🖐️ used
+  - overloaded methods 🖐️ used
+  - Parse and TryParse 🖐️ used
 - Statements
   - if 🖐️ used
   - while 🖐️ used
   - do..while 🖐️ used
   - for 🖐️ used
-  - foreach
-  - throw
+  - foreach 🖐️ used
+  - throw 🖐️ used
   - break 🖐️ used
   - continue 🖐️ used
   - import
   - export
-  - try..catch
+  - try..catch 🖐️ used
   - switch 🖐️ used
   - class 👂 heard
-  - with
-  - where
+  - with 🎓 known
+  - where 👂 heard
 - Functions
   - function declaration 🖐️ used
   - function expression 🖐️ used
   - return 🖐️ used
-  - params
-  - default parameters
-  - functional object
+  - params 🖐️ used
+  - default parameters 🖐️ used
+  - functional object 
 - Data structures
   - Array 👂 heard
   - null 🖐️ used
-  - List
-  - ArrayList
-  - decimal
-  - struct
-  - Queue
-  - Stack
-  - HashSet
+  - List 🎓 known
+  - ArrayList 🎓 known
+  - decimal 🖐️ used
+  - struct 🖐️ used
+  - Queue 🎓 known
+  - Stack 🎓 known
+  - HashSet 🎓 known
 - Infrastructure
-  - linq
-  - asp
+  - linq 👂 heard
+  - asp 👂 heard
   - ado.net
