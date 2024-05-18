@@ -13,7 +13,7 @@
   - Concurrent computing
   - Asynchronous programming 👂 heard
   - Parallel programming 👂 heard
-  - Reactive programming
+  - Reactive programming 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -40,11 +40,11 @@
   - Parent class 🖐️ used
   - Polymorphism 🖐️ used
   - Abstract class 🖐️ used
-  - Interface 🎓 known
+  - Interface 🖐️ used
   - Encapsulation 🖐️ used
-  - Hidden class
+  - Hidden class 👂 heard
   - Object form
-  - Instance  🖐️ used
+  - Instance 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
