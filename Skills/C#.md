@@ -1,78 +1,78 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 🖐️ used
-  - this 🖐️ used
-  - typeof 🖐️ used
-  - getters and setters 🖐️ used
-  - public, private, protected 🖐️ used
-  - static 🖐️ used
-  - equality operators 🖐️ used
-  - logical operators 🖐️ used
-  - bitwise operators 👂 heard
-  - ternary operator 🖐️ used
-  - as 🖐️ used
-  - is 🖐️ used
-  - void 🖐️ used
-  - in 🖐️ used
-  - ref 🖐️ used
-  - out 🖐️ used
-  - base 🖐️ used
-  - partial 🎓 known
-  - interface 🖐️ used
-  - generics 🖐️ used
-  - delegate 🖐️ used
-  - event 👂 heard
-  - null-coalescing operator 🖐️ used
-  - abstract 🖐️ used
-  - override 🖐️ used
-  - virtual 🖐️ used
-  - overloaded methods 🖐️ used
-  - Parse and TryParse 🖐️ used
+  - Object: 🖐️ used
+  - this: 🖐️ used
+  - typeof: 🖐️ used
+  - getters and setters: 🖐️ used
+  - public, private, protected: 🖐️ used
+  - static: 🖐️ used
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 👂 heard
+  - ternary operator: 🖐️ used
+  - as: 🖐️ used
+  - is: 🖐️ used
+  - void: 🖐️ used
+  - in: 🖐️ used
+  - ref: 🖐️ used
+  - out: 🖐️ used
+  - base: 🖐️ used
+  - partial: 🎓 known
+  - interface: 🖐️ used
+  - generics: 🖐️ used
+  - delegate: 🖐️ used
+  - event: 👂 heard
+  - null-coalescing operator: 🖐️ used
+  - abstract: 🖐️ used
+  - override: 🖐️ used
+  - virtual: 🖐️ used
+  - overloaded methods: 🖐️ used
+  - Parse and TryParse: 🖐️ used
 - Statements
-  - if 🖐️ used
-  - while 🖐️ used
-  - do..while 🖐️ used
-  - for 🖐️ used
-  - foreach 🖐️ used
-  - throw 🖐️ used
-  - break 🖐️ used
-  - continue 🖐️ used
-  - import 👂 heard
-  - export 👂 heard
-  - try..catch 🖐️ used
-  - switch 🖐️ used
-  - class 🖐️ used
-  - with 🎓 known
-  - where 🖐️ used
-  - sealed 🎓 known
-  - yield 👂 heard
-  - const 🖐️ used
-  - readonly 🖐️ used
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - foreach: 🖐️ used
+  - throw: 🖐️ used
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 👂 heard
+  - export: 👂 heard
+  - try..catch: 🖐️ used
+  - switch: 🖐️ used
+  - class: 🖐️ used
+  - with: 🎓 known
+  - where: 🖐️ used
+  - sealed: 🎓 known
+  - yield: 👂 heard
+  - const: 🖐️ used
+  - readonly: 🖐️ used
 - Functions
-  - function declaration 🖐️ used
-  - function expression 🖐️ used
-  - return 🖐️ used
-  - params 🖐️ used
-  - default parameters 🖐️ used
-  - functional object 
+  - function declaration: 🖐️ used
+  - function expression: 🖐️ used
+  - return: 🖐️ used
+  - params: 🖐️ used
+  - default parameters: 🖐️ used
+  - functional object
 - Data structures
-  - Array 🖐️ used
-  - null 🖐️ used
-  - Collections 🖐️ used
-  - List 🖐️ used
-  - ArrayList 🖐️ used
-  - LinkedList 🖐️ used
-  - bool 🖐️ used
-  - char 🖐️ used
-  - string 🖐️ used
-  - double 🖐️ used
-  - decimal 🖐️ used
-  - struct 🖐️ used
-  - Queue 🖐️ used
-  - Stack 🖐️ used
-  - Dictionary 🖐️ used
+  - Array: 🖐️ used
+  - null: 🖐️ used
+  - Collections: 🖐️ used
+  - List: 🖐️ used
+  - ArrayList: 🖐️ used
+  - LinkedList: 🖐️ used
+  - bool: 🖐️ used
+  - char: 🖐️ used
+  - string: 🖐️ used
+  - double: 🖐️ used
+  - decimal: 🖐️ used
+  - struct: 🖐️ used
+  - Queue: 🖐️ used
+  - Stack: 🖐️ used
+  - Dictionary: 🖐️ used
 - Infrastructure
-  - LINQ 👂 heard
-  - ASP.Net 👂 heard
+  - LINQ: 👂 heard
+  - ASP.Net: 👂 heard
   - ADO.Net

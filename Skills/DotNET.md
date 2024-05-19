@@ -29,7 +29,7 @@
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ 👂 heard
+  - LINQ: 👂 heard
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
@@ -53,7 +53,7 @@
   - Debugging tools and strategies
   - Performance profiling and analysis
 - Data Access and ORM
-  - Entity Framework Core 
+  - Entity Framework Core
   - Dapper
   - ADO.NET for database access
   - Data modeling and migration
@@ -62,11 +62,11 @@
 - Error Handling and Debugging
   - Exception handling in .NET
   - Custom error classes
-  - Debugging and diagnostic tools 🖐️ used
+  - Debugging and diagnostic tools: 🖐️ used
   - Profiling and performance analysis
   - Memory leak detection
 - Integration and Extensibility
-  - Interoperability with native libraries 
+  - Interoperability with native libraries
   - P/Invoke for calling `C/C++` libraries
   - COM interop
   - .NET for `WebAssembly`
@@ -78,12 +78,12 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals 🖐️ used
-  - Advanced C# features (LINQ, async/await, delegates, events) 👂 heard
-  - Reflection and dynamic programming 👂 heard
-  - Data types and collections 🖐️ used
-  - Generics and extension methods 🖐️ used
-  - Attributes and annotations 
+  - C# syntax and language fundamentals: 🖐️ used
+  - Advanced C# features (LINQ, async/await, delegates, events): 👂 heard
+  - Reflection and dynamic programming: 👂 heard
+  - Data types and collections: 🖐️ used
+  - Generics and extension methods: 🖐️ used
+  - Attributes and annotations
   - Interoperability with other .NET languages
 - `F#` Development
   - `F#` syntax and language fundamentals
@@ -120,9 +120,9 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity 👂 heard
+  - Unity: 👂 heard
 - Web development
-  - ASP.NET Core 
+  - ASP.NET Core
   - Blazor
   - Razor Syntax
   - RESTful API development
