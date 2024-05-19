@@ -1,19 +1,19 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming🎓 known
-  - Imperative programming 🎓 known
-  - Structured programming 🎓 known
-  - Non-structured programming 🎓 known
-  - Functional programming 🎓 known
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🎓 known
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🎓 known
   - Prototype-based programming
-  - Object-oriented programming 🖐️ used
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming 👂 heard
-  - Parallel programming 👂 heard
-  - Reactive programming
+  - Asynchronous programming: 👂 heard
+  - Parallel programming: 👂 heard
+  - Reactive programming: 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor 🖐️ used
-  - Operator `new` 🖐️ used
-  - Static method 🖐️ used
-  - Method 🖐️ used
-  - Async method 
-  - Getters, Setters 🖐️ used
-  - Public fields 🖐️ used
-  - Private fields 🖐️ used
-  - Field declarations 🖐️ used
-  - Inheritance 🖐️ used
-  - Parent class 🖐️ used
-  - Polymorphism 🖐️ used
-  - Abstract class 🖐️ used
-  - Interface 🎓 known
-  - Encapsulation 🖐️ used
-  - Hidden class
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 👂 heard
   - Object form
-  - Instance  🖐️ used
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem

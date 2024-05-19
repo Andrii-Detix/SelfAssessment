@@ -29,7 +29,7 @@
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
-  - LINQ
+  - LINQ: 👂 heard
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
@@ -62,7 +62,7 @@
 - Error Handling and Debugging
   - Exception handling in .NET
   - Custom error classes
-  - Debugging and diagnostic tools
+  - Debugging and diagnostic tools: 🖐️ used
   - Profiling and performance analysis
   - Memory leak detection
 - Integration and Extensibility
@@ -78,11 +78,11 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
-  - Advanced C# features (LINQ, async/await, delegates, events)
-  - Reflection and dynamic programming
-  - Data types and collections
-  - Generics and extension methods
+  - C# syntax and language fundamentals: 🖐️ used
+  - Advanced C# features (LINQ, async/await, delegates, events): 👂 heard
+  - Reflection and dynamic programming: 👂 heard
+  - Data types and collections: 🖐️ used
+  - Generics and extension methods: 🖐️ used
   - Attributes and annotations
   - Interoperability with other .NET languages
 - `F#` Development
@@ -120,7 +120,7 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity: 👂 heard
 - Web development
   - ASP.NET Core
   - Blazor
